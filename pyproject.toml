@@ -1,0 +1,5 @@
+[project]
+name = "grid-flexibility-engine"
+version = "1.0.0"
+requires-python = ">=3.14,<3.15"
+description = "Forecasting, asset simulation and constraint-aware flexibility dispatch for grid operations."
